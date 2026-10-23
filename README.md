@@ -25,4 +25,4 @@ streamlit run app.py
 
 *Issued by:* Cato Networks
 
-*Badge Verification:* https://www.credly.com/badges/04398347-c787-41fd-946d-a60c92a6ab5c
+*Badge Verification:*https://www.credly.com/badges/04398347-c787-41fd-946d-a60c92a6ab5c/public_url 
