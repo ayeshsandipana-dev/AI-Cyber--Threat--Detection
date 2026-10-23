@@ -17,3 +17,12 @@ This project uses machine learning to analyze network traffic data and detect po
 ## 🚀 How to Run
 ```bash
 streamlit run app.py
+
+
+## 🏆 Related Certification
+
+*Certification:* AI in Cybersecurity
+
+*Issued by:* Cato Networks
+
+*Badge Verification:* https://www.credly.com/badges/04398347-c787-41fd-946d-a60c92a6ab5c
